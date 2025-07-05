@@ -7,7 +7,7 @@ function App() {
       <header className="header">
         <nav className="nav">
           <div className="nav-brand">
-            <h2>Harry46497</h2>
+            <h2>Hayate Misaki</h2>
           </div>
           <div className="nav-links">
             <a href="#about">About</a>
@@ -23,7 +23,7 @@ function App() {
         <div className="hero-content">
           <div className="hero-text">
             <h1>
-              Hello, I'm <span className="gradient-text">Harry</span>
+              Hello, I'm <span className="gradient-text">Hayate Misaki</span>
             </h1>
             <p className="hero-description">
               愛知工業大学の3年生で、Webアプリケーションを作成しています。
@@ -55,12 +55,14 @@ function App() {
             <div className="about-grid">
               <div className="about-text">
                 <p>
-                  私は技術に情熱を注ぐソフトウェア開発者です。常に新しい技術を学び、
-                  ユーザーにとって価値のあるソリューションを作成することを目指しています。
+                  初めまして!愛知工業大学で情報科学を学んでいる3年生の三崎颯です。
+                  プログラミングに出会ったのは大学に入ってからでした。
                 </p>
                 <p>
-                  フロントエンドからバックエンドまで、幅広い技術スタックを扱い、
-                  品質の高いコードと優れたユーザーエクスペリエンスの提供に取り組んでいます。
+                  特にWebアプリケーションの開発に興味があり、
+                  ユーザーが使いやすいインターフェースを作ることを心がけています。
+                  まだまだ学ぶことはたくさんありますが、
+                  新しい技術にチャレンジしながら成長していきたいと思っています。
                 </p>
               </div>
               <div className="about-details">
@@ -114,10 +116,10 @@ function App() {
               <h3>Frontend</h3>
               <div className="skill-items">
                 <span className="skill-item">React</span>
-                <span className="skill-item">TypeScript</span>
                 <span className="skill-item">JavaScript</span>
                 <span className="skill-item">HTML</span>
                 <span className="skill-item">CSS</span>
+                <span className="skill-item">TypeScript</span>
               </div>
             </div>
             <div className="skill-category">
@@ -133,7 +135,6 @@ function App() {
               <h3>Tools & Others</h3>
               <div className="skill-items">
                 <span className="skill-item">Blender</span>
-                <span className="skill-item">Unity</span>
                 <span className="skill-item">Arduino</span>
               </div>
             </div>
@@ -171,7 +172,7 @@ function App() {
                 <h3>隧道</h3>
                 <div className="project-links"></div>
               </div>
-              <p>HD2Dを用いたホラーゲーム</p>
+              <p>HD-2Dを用いたホラーゲーム</p>
               <div className="project-tech">
                 <span>Unity</span>
                 <span>Blender</span>
@@ -187,7 +188,7 @@ function App() {
           <h2 className="section-title">Contact</h2>
           <div className="contact-content">
             <div className="contact-links">
-              <a href="k23119kk@aitech.ac.jp" className="contact-link">
+              <a href="mailto:k23119kk@aitech.ac.jp" className="contact-link">
                 <i className="fas fa-envelope"></i>
                 Email
               </a>
